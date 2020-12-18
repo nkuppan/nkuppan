@@ -4,7 +4,7 @@ I'm an Android Engineer and occasional iOS Engineer
 
 I'm based in Chennai, India
 
-I currently work at Trimble Inc as a Software engeering lead.
+I currently work at <b>Trimble Inc</b> as a Software engeering lead.
 
 I'm passionate about coding and creating useful application. I also strive to contribute to the Android community; I enjoy publishing open source code and writing blog posts.
 
