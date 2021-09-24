@@ -6,7 +6,7 @@ I'm based in Chennai, India
 
 I currently work at <b>Trimble Inc</b> as a Software engeering lead.
 
-I'm passionate about coding and creating useful application. I also strive to contribute to the Android community; I enjoy publishing open source code and writing blog posts.
+I'm passionate about coding and creating useful application. I also strive to contribute to the Android community. I enjoy publishing open source code and writing blog posts.
 
 You can also find me on:
 
