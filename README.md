@@ -21,7 +21,7 @@
 <br/>
 
 
-- 🔭 I’m currently working at <b>Trimble Inc</b>
+- 🔭 I’m currently working at <b>Onefootball Gmbh</b>
 - 🌱 I’m currently learning more about Jetpack Compose, SwiftUI, Android development(Forever).
 - 👯 I’m looking to collaborate on Interesting mobile projects & open source contributions.
 - 💬 Ask me about Android in general or Jetpack Compsoe.
