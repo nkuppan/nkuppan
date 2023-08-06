@@ -22,10 +22,10 @@
 
 
 - 🔭 I’m currently working at <b>Onefootball Gmbh</b>
-- 🌱 I’m currently learning more about Jetpack Compose, SwiftUI, Android development(Forever).
-- 👯 I’m looking to collaborate on Interesting mobile projects & open source contributions.
+- 🌱 I’m currently learning more about Jetpack Compose, SwiftUI, and Android development(Forever).
+- 👯 I’m looking to collaborate on Interesting mobile projects & open-source contributions.
 - 💬 Ask me about Android in general or Jetpack Compsoe.
-- 📫 How to reach me: [Twitter - @naveenkumarn27](https://twitter.com/naveenkumarn27)
+- 📫 How to reach me: [Instagram - @naveenkumar_kup](https://www.instagram.com/naveenkumar_kup/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If I am not coding then I am playing FIFA
 
@@ -49,6 +49,6 @@
 
 <div align="center">
 
-### Share some love with Starring repositories and following me on twitter 
+### Share some love with Starring repositories and follow me on Instagram 
 
 </div>
